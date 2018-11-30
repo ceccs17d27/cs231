@@ -1,3 +1,6 @@
+// Jathin Suresh
+// S3 D 27
+// Sequential Search
 #include<stdio.h>
 #include<conio.h>
 void main()
