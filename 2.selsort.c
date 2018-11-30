@@ -1,3 +1,6 @@
+// Jathin Suresh
+// S3 D 27
+// Selection Sort
 #include<conio.h>
 #include<stdio.h>
 void main()
