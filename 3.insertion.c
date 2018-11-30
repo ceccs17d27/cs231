@@ -1,3 +1,7 @@
+
+// Jathin Suresh
+// S3 D 27
+// Insertion sort
 #include<stdio.h>
 
 void main() 
