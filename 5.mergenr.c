@@ -1,3 +1,6 @@
+// Jathin Suresh
+// S3 D 27
+// Merge sort without recursion
 #include<stdio.h>
 
 #define max 25
