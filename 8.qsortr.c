@@ -1,3 +1,6 @@
+// Jathin Suresh
+// S3 D 27
+// Quick sort recursive
 #include <stdio.h>
 
 void quick_sort(int[],int,int);
