@@ -1,3 +1,6 @@
+// Jathin Suresh
+// S3 D 27
+// Polynomial multiplication
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -18,7 +21,7 @@ void main()
     head->coef=0;
     head->link=NULL;
 
-    head1=(struct node*)malloc(sizeof(struct node));
+    head1=(struct node*)malloc(sizeof(struct nod));
     head1->exp=0;
     head1->coef=0;
     head1->link=NULL;
