@@ -1,3 +1,6 @@
+// Jathin Suresh
+// S3 D 27
+// Merge sort with recursion
 #include<stdio.h>
 
 void main() 
