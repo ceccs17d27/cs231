@@ -1,3 +1,6 @@
+//Jathin Suresh
+// S3-D
+// 27
 #include <stdio.h>
 #define size 100
 
