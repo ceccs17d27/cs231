@@ -1,4 +1,6 @@
-
+// Jathin Suresh
+// S3 D 27
+// stack using Linked list
 #include <stdio.h>
 #include <stdlib.h>
 
