@@ -1,3 +1,6 @@
+// Jathin Suresh
+// S3 D 27
+// Polynomial addition
 #include<stdio.h>
 #include<stdlib.h>
 
