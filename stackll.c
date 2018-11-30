@@ -1,3 +1,7 @@
+//Jathin Suresh
+//S3 D 27
+//Stack Using Link List
+
 #include<stdio.h>
 #include<stdlib.h>
 
